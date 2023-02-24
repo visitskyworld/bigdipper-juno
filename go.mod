@@ -7,7 +7,7 @@ require (
 	github.com/forbole/juno/v2 v2.0.0-20220117075314-1d0a50fab7d4
 	github.com/go-co-op/gocron v1.11.0
 	github.com/gogo/protobuf v1.3.3
-	github.com/jmoiron/sqlx v1.2.1-0.20200324155115-ee514944af4b
+	github.com/jmoiron/sqlx v1.3.5
 	github.com/lib/pq v1.10.4
 	github.com/pelletier/go-toml v1.9.4
 	github.com/proullon/ramsql v0.0.0-20181213202341-817cee58a244
